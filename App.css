@@ -1,0 +1,22 @@
+h1 {
+	color: #FF0000;
+	/*border-color: purple:
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed purple;  
+}
+
+li {
+	color: ;
+}
+
+h4 {
+	background: rgb(255,100,80)
+}
+body {
+	background: pink;
+	/*background: url(https://images.pexels.com/photos/586744/pexels-photo-586744.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+}
